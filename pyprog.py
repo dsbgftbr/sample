@@ -1,3 +1,6 @@
-import sys
+def add(x, y):
+    pass
 
-print(sys.config)
+
+def mult(x, y):
+    pass
